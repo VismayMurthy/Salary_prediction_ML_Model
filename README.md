@@ -1,1 +1,2 @@
 # Salary_prediction_ML_Model
+Predicting salaries based on years of experience is a common problem in data science. This article will guide you through a Python script that uses linear regression to predict the salaries of employees based on their years of experience. We will cover data loading, model training, evaluation, and how to allow user input to predict salaries for specific years of experience.
